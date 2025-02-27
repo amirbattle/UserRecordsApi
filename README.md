@@ -5,7 +5,7 @@
 Once you run the app, you can test the endpoints at [http://localhost:5095/swagger/index.html](http://localhost:5095/swagger/index.html).
 
 ## Login
-To use the endpoints, you must login first. Otherwise the endpoints will throw a 401 Unauthorized error code. The /api/Account/login endpoint requires a username and a password. The database is seeded with a user for initial login. 
+To use the endpoints, you must login first. Otherwise the endpoints will throw a 401 Unauthorized error code. The /api/Account/login endpoint requires a username and a password. The database is seeded with a user for initial login: 
 
 username: `admin@gmail.com` password `admin123`
 
